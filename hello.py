@@ -8,3 +8,4 @@
 
 # ***Uncomment the line below***
 print("Hello, World!")
+print("Welcome to Practical AI Fall 2025")
